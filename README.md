@@ -36,3 +36,4 @@ modular reuse and easier maintenance.
 
 ## Notes
 - Python scripting in this project is partially AI-assisted.
+- The workspace paths are hardcoded for now
