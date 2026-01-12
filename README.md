@@ -15,7 +15,7 @@ from CHIRPS raster data for GIS analysis and reporting.
 4. Output Coordinate System
 5. Aggregation Type
 6. Z value field: pick GRID_CODE
-7. Output raster and tabular summaries
+7. Output shapefile and tabular summaries
 
 ## Tool Architecture
 
