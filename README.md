@@ -21,12 +21,12 @@ from CHIRPS raster data for GIS analysis and reporting.
 
 This tool consists of two ArcGIS ModelBuilder models:
 
-### 1. Main Model — `rainfall_main`
+### 1. Main Model — `Rainfall Calculation`
 - Handles user inputs and validation
 - Calls the aggregation submodel
 - Manages final outputs (rasters and tables)
 
-### 2. Submodel — `rainfall_aggregate`
+### 2. Submodel — `extracted points`
 - Performs temporal rainfall aggregation
 - Processes raster time series
 - Returns summarised outputs to the main model
